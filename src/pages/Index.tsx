@@ -6,7 +6,7 @@ import { ArrowRight, Sparkles } from "lucide-react";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-night">
+    <div className="min-h-screen bg-background dark:bg-gradient-night">
       <Navigation />
       
       {/* Hero Section */}
